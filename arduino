@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+# ini bisa diganti sesuai dimana ./arduino-ide berada
+cd ~/Documents/Arduino-IDE/
+
+./arduino-ide
